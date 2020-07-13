@@ -21,6 +21,7 @@ class App extends Component {
 
         <Cards data={this.state.data} />
         <CountryPicker />
+       
         <Chart />
 
       </div>
